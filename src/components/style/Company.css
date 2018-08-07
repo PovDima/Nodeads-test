@@ -1,0 +1,22 @@
+.container1{
+  display: flex;
+  justify-content: space-around;
+  margin: 10% 10%;
+}
+.text-blue{
+  color: #00ccff;
+  border-bottom: 0.5vw solid #00CCFF;
+}
+.text{
+  font-size: 1em;
+}
+.small-text{
+  margin-top: 60px;
+  font-size: 0.75em;
+}
+.container img{
+  margin:0 10%;
+}
+.container1 img{
+  margin-left: 15%;
+}
