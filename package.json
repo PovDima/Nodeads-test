@@ -2,8 +2,8 @@
   "name": "react_webpack_starter",
   "version": "1.0.0",
   "description": "Boilerplate for React apps",
-  "main": "index.js",
-  "homepage": "https://povdima.github.io/First-React-App",
+  "main": "index.js",  
+  "homepage": "https://povdima.github.io/Nodeads-test",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
@@ -13,7 +13,6 @@
   "author": "Dmitriy Povetkin",
   "license": "MIT",
   "dependencies": {
-    "gh-pages": "^1.2.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-router": "^4.3.1",
